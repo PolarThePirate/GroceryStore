@@ -100,8 +100,8 @@ if __name__ == "__main__":
     #    "price_per_unit": "14.55",
     #}))
 
-    print(insert_new_customer(connection, {
-        "customer_name": "Wojtek",
-        "phone_number": "00486178539",
-        "email": "dupa.jasia@gmail.com",
-    }))
+    #print(insert_new_customer(connection, {
+    #    "customer_name": "Stach",
+    #    "phone_number": "888574598",
+    #    "email": "abw123@cba.pl",
+    #}))
